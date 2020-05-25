@@ -1,7 +1,7 @@
 name: dash
 channels:
   - conda-forge
-
+  - pyviz
 
 dependencies:
   - jupyter_panel_proxy
