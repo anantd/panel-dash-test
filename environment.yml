@@ -3,8 +3,10 @@ channels:
   - conda-forge
   - pyviz
 
-dependencies:
+packages:
   - jupyter_panel_proxy
+
+dependencies:
   - numpy
   - pandas
   - altair
