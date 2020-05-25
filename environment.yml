@@ -1,13 +1,10 @@
 name: dash
 channels:
   - conda-forge
-  - pyviz
-
-packages:
-  - jupyter_panel_proxy
 
 dependencies:
   - numpy
   - pandas
   - altair
   - panel 
+  - jupyter-panel-proxy
