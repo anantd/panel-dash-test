@@ -1,0 +1,11 @@
+name: dash
+channels:
+  - conda-forge
+
+
+dependencies:
+  - jupyter_panel_proxy
+  - numpy
+  - pandas
+  - altair
+  - panel 
